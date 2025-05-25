@@ -7,7 +7,7 @@ let accountState;//value is undefined
 
 // accountId = 2 // not allowed
 
-accountEmail = "harsh123@ggmail.com"
+accountEmail = "harsh123@gmail.com"
 accountPassword = "123"
 accountCity ="Bengaluru"
 
